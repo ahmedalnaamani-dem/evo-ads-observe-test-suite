@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "name": "Margaret Chen",
+      "email": "margaret.chen@northwind-health.com",
+      "phone": "+1-617-482-7391",
+      "ssn": "521-34-8765",
+      "date_of_birth": "1985-03-15",
+      "address": "742 Evergreen Terrace, Springfield, IL 62704",
+      "credit_card": "4532-8891-2047-6613",
+      "passport": "N28473915"
+    },
+    {
+      "name": "Robert Alvarez",
+      "email": "robert.alvarez@meridian-corp.io",
+      "phone": "+1-312-847-2906",
+      "ssn": "483-72-1094",
+      "date_of_birth": "1990-07-22",
+      "address": "1580 Oak Park Avenue, Chicago, IL 60622",
+      "credit_card": "5425-2334-1876-9042",
+      "passport": "N91827364"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Real tenant credentials / push keys — never commit
+tenantid-pushkey.txt
+
+# OS / editor cruft
+.DS_Store
+*.log
