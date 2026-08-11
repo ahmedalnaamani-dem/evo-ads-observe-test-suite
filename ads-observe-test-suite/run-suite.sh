@@ -8,7 +8,7 @@ SUITE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 echo "=============================================="
 echo " ADS Observe Scanner Demo Suite"
-echo " Tenant: dc72a930-7e36-406b-859f-8996b685df5b"
+echo " Tenant: <YOUR_TENANT_ID>"
 echo "=============================================="
 echo ""
 echo "PRIMARY: 06-scanner-demo-playbook.md (19 scenarios)"

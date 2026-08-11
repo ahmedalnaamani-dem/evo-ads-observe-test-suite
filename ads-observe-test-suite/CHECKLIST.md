@@ -3,7 +3,7 @@
 **Session ID:** _______________  
 **Date:** _______________  
 **Tester:** _______________  
-**Tenant:** dc72a930-7e36-406b-859f-8996b685df5b
+**Tenant:** <YOUR_TENANT_ID>
 
 ## Scanner demo (priority — use 06-scanner-demo-playbook.md)
 
